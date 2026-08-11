@@ -15,7 +15,7 @@ class Solution {
             sum = ans.get(i).val + ans.get(j).val;
             if(twSum < sum){
                 twSum = sum;
-                sum = 0;
+                // sum = 0;
             }
             i++;
             j--;
