@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/MrShadow335/LEETCODE/tree/main/0258-add-digits/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0445-add-two-numbers-ii/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -36,5 +38,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0445-add-two-numbers-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
