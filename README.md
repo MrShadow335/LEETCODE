@@ -45,4 +45,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/MrShadow335/LEETCODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/MrShadow335/LEETCODE/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/MrShadow335/LEETCODE/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
