@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/MrShadow335/LEETCODE/tree/main/0258-add-digits/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0633-sum-of-square-numbers](https://github.com/MrShadow335/LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/MrShadow335/LEETCODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0633-sum-of-square-numbers](https://github.com/MrShadow335/LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -65,4 +67,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0633-sum-of-square-numbers](https://github.com/MrShadow335/LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
 <!---LeetCode Topics End-->
