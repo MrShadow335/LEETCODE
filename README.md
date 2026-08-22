@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/MrShadow335/LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/MrShadow335/LEETCODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/MrShadow335/LEETCODE/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
