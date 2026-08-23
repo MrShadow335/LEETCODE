@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/MrShadow335/LEETCODE/tree/main/0027-remove-element/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/MrShadow335/LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MrShadow335/LEETCODE/tree/main/0001-two-sum/) | Easy |
+| [0027-remove-element](https://github.com/MrShadow335/LEETCODE/tree/main/0027-remove-element/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0896-monotonic-array](https://github.com/MrShadow335/LEETCODE/tree/main/0896-monotonic-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/MrShadow335/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
