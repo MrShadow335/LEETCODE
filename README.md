@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/MrShadow335/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/MrShadow335/LEETCODE/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/MrShadow335/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/MrShadow335/LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/MrShadow335/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MrShadow335/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/MrShadow335/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/MrShadow335/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/MrShadow335/LEETCODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/MrShadow335/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/MrShadow335/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MrShadow335/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/MrShadow335/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0896-monotonic-array](https://github.com/MrShadow335/LEETCODE/tree/main/0896-monotonic-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/MrShadow335/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
@@ -81,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/MrShadow335/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0138-copy-list-with-random-pointer](https://github.com/MrShadow335/LEETCODE/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0242-valid-anagram](https://github.com/MrShadow335/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/MrShadow335/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [3731-find-missing-elements](https://github.com/MrShadow335/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
 ## Depth-First Search
@@ -94,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/MrShadow335/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/MrShadow335/LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## String
