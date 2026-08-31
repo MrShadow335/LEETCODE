@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/MrShadow335/LEETCODE/tree/main/0682-baseball-game/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/MrShadow335/LEETCODE/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Sorting
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0682-baseball-game](https://github.com/MrShadow335/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 | [0896-monotonic-array](https://github.com/MrShadow335/LEETCODE/tree/main/0896-monotonic-array/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/MrShadow335/LEETCODE/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [3731-find-missing-elements](https://github.com/MrShadow335/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -150,5 +152,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0503-next-greater-element-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/MrShadow335/LEETCODE/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 <!---LeetCode Topics End-->
