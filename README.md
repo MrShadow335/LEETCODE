@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/MrShadow335/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
+| [0084-largest-rectangle-in-histogram](https://github.com/MrShadow335/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/MrShadow335/LEETCODE/tree/main/0027-remove-element/) | Easy |
 | [0075-sort-colors](https://github.com/MrShadow335/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/MrShadow335/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/MrShadow335/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MrShadow335/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -151,7 +153,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MrShadow335/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MrShadow335/LEETCODE/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2487-remove-nodes-from-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/MrShadow335/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
