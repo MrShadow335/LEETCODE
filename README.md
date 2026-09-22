@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/MrShadow335/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/MrShadow335/LEETCODE/tree/main/0258-add-digits/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/MrShadow335/LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MrShadow335/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/MrShadow335/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/MrShadow335/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0344-reverse-string](https://github.com/MrShadow335/LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/MrShadow335/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/MrShadow335/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/MrShadow335/LEETCODE/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/MrShadow335/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/MrShadow335/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/MrShadow335/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
