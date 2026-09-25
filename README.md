@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/MrShadow335/LEETCODE/tree/main/0001-two-sum/) | Easy |
 | [0027-remove-element](https://github.com/MrShadow335/LEETCODE/tree/main/0027-remove-element/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/MrShadow335/LEETCODE/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0075-sort-colors](https://github.com/MrShadow335/LEETCODE/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/MrShadow335/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/MrShadow335/LEETCODE/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/MrShadow335/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0441-arranging-coins](https://github.com/MrShadow335/LEETCODE/tree/main/0441-arranging-coins/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
