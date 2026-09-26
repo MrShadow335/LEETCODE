@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-monotonic-array](https://github.com/MrShadow335/LEETCODE/tree/main/0896-monotonic-array/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MrShadow335/LEETCODE/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MrShadow335/LEETCODE/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/MrShadow335/LEETCODE/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3731-find-missing-elements](https://github.com/MrShadow335/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/MrShadow335/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/MrShadow335/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/MrShadow335/LEETCODE/tree/main/0344-reverse-string/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/MrShadow335/LEETCODE/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,4 +198,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MrShadow335/LEETCODE/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/MrShadow335/LEETCODE/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 <!---LeetCode Topics End-->
