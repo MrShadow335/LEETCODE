@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/MrShadow335/LEETCODE/tree/main/0258-add-digits/) | Easy |
 | [0682-baseball-game](https://github.com/MrShadow335/LEETCODE/tree/main/0682-baseball-game/) | Easy |
+| [0867-transpose-matrix](https://github.com/MrShadow335/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MrShadow335/LEETCODE/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/MrShadow335/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0682-baseball-game](https://github.com/MrShadow335/LEETCODE/tree/main/0682-baseball-game/) | Easy |
+| [0867-transpose-matrix](https://github.com/MrShadow335/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/MrShadow335/LEETCODE/tree/main/0896-monotonic-array/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MrShadow335/LEETCODE/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MrShadow335/LEETCODE/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0085-maximal-rectangle](https://github.com/MrShadow335/LEETCODE/tree/main/0085-maximal-rectangle/) | Hard |
+| [0867-transpose-matrix](https://github.com/MrShadow335/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
