@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/MrShadow335/LEETCODE/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0645-set-mismatch](https://github.com/MrShadow335/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/MrShadow335/LEETCODE/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/MrShadow335/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
 ## Array
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/MrShadow335/LEETCODE/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0645-set-mismatch](https://github.com/MrShadow335/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/MrShadow335/LEETCODE/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/MrShadow335/LEETCODE/tree/main/0867-transpose-matrix/) | Easy |
 | [0896-monotonic-array](https://github.com/MrShadow335/LEETCODE/tree/main/0896-monotonic-array/) | Easy |
@@ -129,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0645-set-mismatch](https://github.com/MrShadow335/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 | [3731-find-missing-elements](https://github.com/MrShadow335/LEETCODE/tree/main/3731-find-missing-elements/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -225,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0268-missing-number](https://github.com/MrShadow335/LEETCODE/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/MrShadow335/LEETCODE/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0645-set-mismatch](https://github.com/MrShadow335/LEETCODE/tree/main/0645-set-mismatch/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
