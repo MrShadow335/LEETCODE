@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0445-add-two-numbers-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/MrShadow335/LEETCODE/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0532-k-diff-pairs-in-an-array](https://github.com/MrShadow335/LEETCODE/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0541-reverse-string-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0541-reverse-string-ii/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/MrShadow335/LEETCODE/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
