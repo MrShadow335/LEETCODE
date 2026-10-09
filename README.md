@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/MrShadow335/LEETCODE/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/MrShadow335/LEETCODE/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0143-reorder-list](https://github.com/MrShadow335/LEETCODE/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/MrShadow335/LEETCODE/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MrShadow335/LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/MrShadow335/LEETCODE/tree/main/0024-swap-nodes-in-pairs/) | Medium |
+| [0143-reorder-list](https://github.com/MrShadow335/LEETCODE/tree/main/0143-reorder-list/) | Medium |
 | [0206-reverse-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/MrShadow335/LEETCODE/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/MrShadow335/LEETCODE/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/MrShadow335/LEETCODE/tree/main/0125-valid-palindrome/) | Easy |
+| [0143-reorder-list](https://github.com/MrShadow335/LEETCODE/tree/main/0143-reorder-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/MrShadow335/LEETCODE/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/MrShadow335/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -82,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/MrShadow335/LEETCODE/tree/main/0020-valid-parentheses/) | Easy |
 | [0084-largest-rectangle-in-histogram](https://github.com/MrShadow335/LEETCODE/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/MrShadow335/LEETCODE/tree/main/0085-maximal-rectangle/) | Hard |
+| [0143-reorder-list](https://github.com/MrShadow335/LEETCODE/tree/main/0143-reorder-list/) | Medium |
 | [0155-min-stack](https://github.com/MrShadow335/LEETCODE/tree/main/0155-min-stack/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0445-add-two-numbers-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0445-add-two-numbers-ii/) | Medium |
