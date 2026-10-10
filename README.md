@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MrShadow335/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0189-rotate-array](https://github.com/MrShadow335/LEETCODE/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/MrShadow335/LEETCODE/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/MrShadow335/LEETCODE/tree/main/0268-missing-number/) | Easy |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MrShadow335/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MrShadow335/LEETCODE/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/MrShadow335/LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/MrShadow335/LEETCODE/tree/main/0023-merge-k-sorted-lists/) | Hard |
@@ -49,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/MrShadow335/LEETCODE/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/MrShadow335/LEETCODE/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0024-swap-nodes-in-pairs](https://github.com/MrShadow335/LEETCODE/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/MrShadow335/LEETCODE/tree/main/0143-reorder-list/) | Medium |
