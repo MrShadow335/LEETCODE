@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0445-add-two-numbers-ii/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0682-baseball-game](https://github.com/MrShadow335/LEETCODE/tree/main/0682-baseball-game/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MrShadow335/LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/MrShadow335/LEETCODE/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/MrShadow335/LEETCODE/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/MrShadow335/LEETCODE/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/MrShadow335/LEETCODE/tree/main/0344-reverse-string/) | Easy |
 | [0541-reverse-string-ii](https://github.com/MrShadow335/LEETCODE/tree/main/0541-reverse-string-ii/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/MrShadow335/LEETCODE/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/MrShadow335/LEETCODE/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
